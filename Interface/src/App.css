@@ -1,0 +1,25 @@
+/* Estilo para el contenedor principal de la aplicación */
+.app-container {
+  display: flex;
+}
+
+/* Estilo para el contenedor del título */
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Estilo para el texto del título */
+.title-text {
+  font-size: 40px;
+  margin: 1%;
+}
+
+.right-section {
+  flex: 2;
+  display: flex;
+  justify-content: center;
+  background-color: lightblue;
+}
+
