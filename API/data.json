@@ -1,0 +1,68 @@
+{
+    "people": [
+        {
+            "name": "Pedro",
+            "medication": [
+                {
+                    "dispenser": "1",
+                    "pillName": "Amoxicilina",
+                    "dose": 1,
+                    "frequency": ["Morning", "Afternoon"],
+                    "durationDays": 35,
+                    "administration": "Water",
+                    "extraInfo": "",
+                    "startDate": "2023-05-10",
+                    "lastDispense": ["Morning"]
+                },
+                {
+                    "dispenser": "2",
+                    "pillName": "Almax",
+                    "dose": 2,
+                    "frequency": ["Afternoon", "Night"],
+                    "durationDays": 4,
+                    "administration": "Water",
+                    "extraInfo": "",
+                    "startDate": "2023-06-23",
+                    "lastDispense": ["Afternoon"]
+                }
+            ]
+        },
+        {
+            "name": "Maria",
+            "medication": [
+                {
+                    "dispenser": "3",
+                    "pillName": "Omeoplazol",
+                    "dose": 3,
+                    "frequency": ["Morning", "Afternoon"],
+                    "durationDays": 2,
+                    "administration": "Water",
+                    "extraInfo": "",
+                    "startDate": "2023-05-10",
+                    "lastDispense": "afternoon"
+                }
+            ]
+        }
+
+    ],
+    "dispensers": [
+        {
+            "dispenser": "1",
+            "pillName": "Amoxicilina",
+            "quantity": 17,
+            "pin": 27
+        },
+        {
+            "dispenser": "2",
+            "pillName": "Almax",
+            "quantity": 25,
+            "pin": 17
+        },
+        {
+            "dispenser": "3",
+            "pillName": "Omeoplazol",
+            "quantity": 30,
+            "pin": 18
+        }
+    ]
+}

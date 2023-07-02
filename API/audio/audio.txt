@@ -1,0 +1,15 @@
+bienvenido.wav                      - ¡Bienvenido! Soy Carmen, su dispensadora de pastillas de confianza. Colóquese delante de la cámara para que pueda detectarte.
+no_detectado1.wav                   - No he podido detectarle. Pruebe otra vez poniéndose delante de la cámara.
+no_detectado2.wav                   - No he podido detectarle. Posiblemente no estará registrado. Hable con su asistente o configúrelo usted mismo desde la aplicación web.
+detectado.wav                       - ¡Ya le he detectado! Hola
+no_registrado.wav                   - Parece ser que no está registrado y no hay datos suyos. Hable con su asistente o configúrelo usted mismo desde la aplicación web.
+registrado.wav                      - He encontrado sus datos. Procederé a la comprobación de la medicación que le corresponda. 
+sin_medicamentos.wav                - Parece ser que no tiene medicamentos que tomar.
+medicamentos.wav                    - Le será dispensada y deberá tomar la siguiente medicación
+
+pastilla_de.wav                     - pastilla de
+pastillas_de.wav                    - pastillas de
+tomar_medicacion.wav                - Ya puede tomarse las pastillas. ¡Muchas gracias por su espera!
+
+alarma_tomar_medicamentos.wav       - ¡Alarma! Hora de tomarse la medicación.
+alarma_rellenar_dispensadores.wav   - ¡Alarma! Revisar la cantidad de pastillas.
